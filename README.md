@@ -49,7 +49,7 @@ Este é um projeto simples de gerador de senhas aleatórias feito em Python, uti
 
 ## 📝 Exemplo de uso
 
-![Exemplo de uso do app](https://imgur.com/a/fl2HDqy)
+![Exemplo de uso do app](https://imgur.com/a/fl2HDqy.png)
 
 ---
 
