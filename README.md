@@ -49,7 +49,7 @@ Este é um projeto simples de gerador de senhas aleatórias feito em Python, uti
 
 ## 📝 Exemplo de uso
 
-![Exemplo de uso do app](https://private-user-images.githubusercontent.com/110636966/468436271-4d83229a-bb6e-4b2a-aa0b-36f631321974.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMwNjIyNDcsIm5iZiI6MTc1MzA2MTk0NywicGF0aCI6Ii8xMTA2MzY5NjYvNDY4NDM2MjcxLTRkODMyMjlhLWJiNmUtNGIyYS1hYTBiLTM2ZjYzMTMyMTk3NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyMVQwMTM5MDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMTExMmY4YTExNzg2OTMyYTkzMzA4ZmM5Mzc2OTY5YjQwZTcxZGU0ZjA0YTg0NDA0OWFjZTZlNjg1YzA5NTU1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ofqaeDDPN2vSQX-aLEdwBx6cbaaSCrXvDjnuQx89wG8)
+![Exemplo de uso do app](https://imgur.com/a/fl2HDqy)
 
 ---
 
