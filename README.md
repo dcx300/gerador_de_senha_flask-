@@ -54,7 +54,6 @@ Este é um projeto simples de gerador de senhas aleatórias feito em Python, uti
 ---
 
 ## 📋 Código principal
-## 📋 Código principal
 
 ```python
 import streamlit as st

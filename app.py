@@ -1,15 +1,20 @@
+# app.py
+
+#Bibliotecas:
 import streamlit as st
 import random
 import string
 
+# Configurações do Streamlit
 st.title("Gerador de senhas Random")
 
+# Configurações do layout
 tamanho = st.number_input('Quantidade de dígitos:', min_value=4, max_value=32, value=10)
 usar_letras = st.checkbox('Letras', value=True)
 usar_digitos = st.checkbox('Dígitos', value=True)
 usar_simbolos = st.checkbox('Símbolos', value=True)
 
-
+# Função para gerar a senha
 def gerar_senha(tamanho, usar_letras, usar_digitos, usar_simbolos):
     caracteres = ''
     if usar_letras:
@@ -18,10 +23,10 @@ def gerar_senha(tamanho, usar_letras, usar_digitos, usar_simbolos):
         caracteres += string.digits
     if usar_simbolos:
         caracteres += string.punctuation
-
+# Se não houver caracteres selecionados, retorna uma mensagem de erro
     if not caracteres:
         return "Selecione pelo menos uma opção para gerar a senha."
-
+# Gera a senha aleatória
     senha = ''.join(random.choice(caracteres) for _ in range(tamanho))
     return senha
 
